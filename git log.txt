@@ -1,0 +1,9 @@
+$ git log --pretty=oneline
+58a2d42a648a676be027cafcc6ea468114103e3f (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from piotrcwiklinski/football
+350c7a6006f1054653427e647310ef45f665ff80 (tag: v1.1, origin/football, football) Premiere League
+6d42ab6ec4bd2c4ca6e64203c58e721459418637 Bundesliga Spieltag 11
+a7c938c52258c8cbeb8ad877cd0ea963039e58fa Merge pull request #1 from piotrcwiklinski/numbat
+379e3894120c77cc72cab37c6ffe86691cd36245 (tag: v1.0) Występowanie Numbata
+9a0f02fd5099a17904d2ab9d0d4b97a9c63ef2cd Gatunek Numbata
+e8e26e225254fc858cde33b6339aa0cc01ea51ec Światowy Dzień Numbata
+13eca1141d73d18c765e88fd8dd53a7125f39b87 Initial commit
